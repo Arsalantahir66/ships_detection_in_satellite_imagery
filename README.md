@@ -1,6 +1,6 @@
 # 🚢 Ship Detection in Satellite Imagery  
 
-![Ship Detection](download.png) *(Replace with an actual image if available)*  
+![Ship Detection](download.png)
 
 ## 📌 Project Overview  
 This project leverages **YOLOv3 (You Only Look Once)** to detect ships in satellite imagery. The dataset consists of **26.9k images**, all labeled in **YOLO format**, ensuring efficient and accurate ship detection. The dataset includes only one class: `"ship"` for focused training and evaluation.  
