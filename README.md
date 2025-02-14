@@ -42,7 +42,7 @@ We employed **YOLOv3**, a fast and accurate object detection model, suitable for
 
 ### 🔹 Clone the Repository  
 ```bash  
-git clone https://github.com/YOUR_USERNAME/ships_detection_in_satellite_imagery.git  
+git clone https://github.com/Arsalantahir66/ships_detection_in_satellite_imagery.git  
 cd ships_detection_in_satellite_imagery  
 ```
 
