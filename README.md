@@ -42,11 +42,13 @@ We employed **YOLOv3**, a fast and accurate object detection model, suitable for
 
 ### 🔹 Clone the Repository  
 ```bash  
-git clone https://github.com/aralantahir66/ships_detection_in_satellite_imagery.git  
- 
+git clone https://github.com/YOUR_USERNAME/ships_detection_in_satellite_imagery.git  
+cd ships_detection_in_satellite_imagery  
 ```
-upload on google colab and run  yolov3_on_colab.ipynb
-```
+
+
+
+
 
 ### 🔹 Open in Jupyter Notebook / Google Colab  
 You can also run the project in **Jupyter Notebook** or **Google Colab** by uploading the `.ipynb` file and running the cells.  
