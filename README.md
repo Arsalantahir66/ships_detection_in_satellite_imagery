@@ -21,7 +21,7 @@ Ship detection has multiple real-world applications, including:
 We employed **YOLOv3**, a fast and accurate object detection model, suitable for real-time applications.  
 
 ### 🛠 Implementation Details  
-- **Framework**: PyTorch & OpenCV  
+- **Framework**: darknet & OpenCV  
 - **Training Environment**: Google Colab  
 - **Pretrained Weights**: YOLOv3 trained on the COCO dataset  
 - **Input Image Size**: `416x416`  
